@@ -49,7 +49,6 @@ export default function Layout() {
       </main>
       <Footer />
       <WhatsAppFloat />
-      <EnquiryPopup />
     </div>
   );
 }
