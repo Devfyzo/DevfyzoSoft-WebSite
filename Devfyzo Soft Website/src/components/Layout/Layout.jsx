@@ -5,7 +5,6 @@ import { useReducedMotion } from 'framer-motion';
 import Header from './Header';
 import Footer from './Footer';
 import WhatsAppFloat from './WhatsAppFloat';
-import EnquiryPopup from './EnquiryPopup';
 import SplashScreen from './SplashScreen';
 
 const pageVariants = {
